@@ -13,6 +13,5 @@
 
 1. Pastikan kamu telah menginstal **JDK** (Java Development Kit) di komputer kamu. Jika belum, kamu dapat mengunduhnya dari [situs resmi JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
    
-2. Clone repository ini dengan perintah berikut:
-   ```bash
+2. Clone repository ini dengan perintah berikut: <br>
 git clone https://github.com/Kader2637/hitung-luas-lingkaran.git
